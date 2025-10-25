@@ -1,4 +1,4 @@
-# Salon HITL (Human-in-the-Loop) System
+# HeySalonDesk HITL (Human-in-the-Loop) System
 
 A complete AI-powered voice agent system with human supervision for StyleGuide Salon customer service. Features semantic knowledge search with Mem0, MongoDB persistence, real-time WebSocket updates, and webhook notifications for external integrations.
 
