@@ -2,6 +2,8 @@
 
 A complete AI-powered voice agent system with human supervision for StyleGuide Salon customer service. Features semantic knowledge search with Mem0, MongoDB persistence, real-time WebSocket updates, and webhook notifications for external integrations.
 
+### Demo Video: https://drive.google.com/file/d/1Iz92z89qjEMswrnXS0OMbGMv3rw7dt5q/view?usp=sharing
+
 ## 🏗️ Architecture
 
 ```
